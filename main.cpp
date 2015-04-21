@@ -19,8 +19,8 @@ int main(void) {
 
 	for (cels = li; cels <= ls; cels = cels + a) {
 
-		printf ("Celsius 		 Fahrenheit\n");
-		printf ("%d °			 %3.f F°\n", cels, (getcelsius(cels)));
+		printf ("Celsius" "\t\t" "Fahrenheit\n");
+		printf ("%d °" "\t\t" "%3.f F°\n", cels, (getcelsius(cels)));
 	}
 
 	return 0;
