@@ -1,0 +1,32 @@
+Celsius		Fahrenheit
+0 °		 32 F°
+Celsius		Fahrenheit
+20 °		 68 F°
+Celsius		Fahrenheit
+40 °		104 F°
+Celsius		Fahrenheit
+60 °		140 F°
+Celsius		Fahrenheit
+80 °		176 F°
+Celsius		Fahrenheit
+100 °		212 F°
+Celsius		Fahrenheit
+120 °		248 F°
+Celsius		Fahrenheit
+140 °		284 F°
+Celsius		Fahrenheit
+160 °		320 F°
+Celsius		Fahrenheit
+180 °		356 F°
+Celsius		Fahrenheit
+200 °		392 F°
+Celsius		Fahrenheit
+220 °		428 F°
+Celsius		Fahrenheit
+240 °		464 F°
+Celsius		Fahrenheit
+260 °		500 F°
+Celsius		Fahrenheit
+280 °		536 F°
+Celsius		Fahrenheit
+300 °		572 F°
